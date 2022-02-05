@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831097551774",
+    "firebase_url": "https://status-saver-d748a.firebaseio.com",
+    "project_id": "status-saver-d748a",
+    "storage_bucket": "status-saver-d748a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831097551774:android:f4549f2bfad79729b7b48f",
+        "android_client_info": {
+          "package_name": "com.allinone.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831097551774-804eg9eajdttmi64l8ci57du8igc5tec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2XGzeqMotavPgWuWdRQem8qGH6CpHC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831097551774-804eg9eajdttmi64l8ci57du8igc5tec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
